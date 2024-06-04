@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jaaz
 I'm a Full Stack Dev with a focus on Data Science & Machine Learning based in Germany.
-- 🤓 Learn more about me at [jaazieldovale.com](https://www.jaazieldovale.com/) 
+- 🤓 Learn more about me at <a href="https://www.jaazieldovale.com/" target="_blank">jaazieldovale.com</a>
 - ⚡ Fun facts:
   - 🎵 I play trombone and piano<br>
   - 📚 I speak 5+ languages (excluding the programming ones 😉)<br>
