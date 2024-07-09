@@ -7,6 +7,6 @@ I'm a developer based in Germany.
   - 👾 I love retro gaming
 <br>
 
-<img align="left" alt="Jaaz7's Github Stats" src="www.github-readme-stats-lovat-alpha-76.vercel.app/api?username=jaaz7&show_icons=true&theme=tokyonight">
+<img align="left" alt="Jaaz7's Github Stats" src=" https://github-readme-stats-lovat-alpha-76.vercel.app/api?username=jaaz7&show_icons=true&theme=tokyonight">
 <br><br><br><br><br><br><br><br><br>
-<img src="www.github-readme-stats-lovat-alpha-76.vercel.app/api/top-langs/?username=jaaz7&layout=compact&theme=radical">
+<img src="https://github-readme-stats-lovat-alpha-76.vercel.app/api/top-langs/?username=jaaz7&layout=compact&theme=radical">
