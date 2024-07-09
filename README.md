@@ -7,6 +7,6 @@ I'm a developer based in Germany.
   - 👾 I love retro gaming 
 <br>
 
-<img align="left" alt="Jaaz7's Github Stats" src="https://github-readme-stats-nine-ashy.vercel.app/api?username=jaaz7&show_icons=true&theme=tokyonight">
+<img align="left" alt="Jaaz7's Github Stats" src="https://github-readme-stats-nine-ashy.vercel.app/api?username=jaaz7&show_icons=true&theme=tokyonight&token=GH_STATS_TOKEN">
 <br><br><br><br><br><br><br><br><br>
-<img src="https://github-readme-stats-nine-ashy.vercel.app/api/top-langs/?username=jaaz7&layout=compact&theme=radical">
+<img src="https://github-readme-stats-nine-ashy.vercel.app/api/top-langs/?username=jaaz7&layout=compact&theme=radical&token=GH_STATS_TOKEN">
