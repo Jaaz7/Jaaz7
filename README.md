@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Jaaz
-I'm a developer based in Germany.
+A developer based in Germany.
 - 🤓 Learn more about me at <a href="https://www.jaazieldovale.com/" target="_blank">jaazieldovale.com</a>
 - ⚡ Fun facts:
   - 🎵 I play trombone and piano<br>
