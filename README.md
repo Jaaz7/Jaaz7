@@ -4,7 +4,7 @@ A developer based in Germany.
 - ⚡ Fun facts:
   - 🎵 I play trombone and piano<br>
   - 📚 I speak 5+ languages (excluding the programming ones 😄)<br>
-  - 👾 I love retro gaming
+  - 👾 Retro Gaming Buff
 <br>
 
 <img align="left" alt="Jaaz7's Github Stats" src="https://github-readme-stats-lovat-alpha-76.vercel.app/api?username=jaaz7&show_icons=true&theme=tokyonight">
